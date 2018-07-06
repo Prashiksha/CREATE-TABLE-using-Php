@@ -1,7 +1,7 @@
  <?php
 $servername = "localhost";
 $username = "prashiksha";
-$password = "jainjain";
+$password = "........";
 $dbname = "db1";
 
 // Create connection
